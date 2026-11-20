@@ -1,0 +1,114 @@
+{
+ "company": "Cantor Capital Group",
+ "logo": "logos/cantor-capital-group.png",
+ "city": "Casablanca",
+ "contract": "CDI",
+ "offers": [
+  {
+   "id": 3202,
+   "title": "Responsable Achats",
+   "slug": "responsable-achats-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "6 à 10 ans",
+   "education": "Bac+5",
+   "salary": null,
+   "profile": [
+    "6 à 10 ans en achats, dont 4 ans en promotion immobilière ou BTP",
+    "Maîtrise des appels d'offres, CPS et bordereaux de prix",
+    "Connaissance des corps d'état et des prix du marché"
+   ]
+  },
+  {
+   "id": 3201,
+   "title": "Property Developer",
+   "slug": "property-developer-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "5 à 10 ans",
+   "education": "Bac+5",
+   "salary": null,
+   "profile": [
+    "3 ans min. en pilotage complet d'opérations immobilières",
+    "Bilan promoteur et modélisation financière (Excel)",
+    "Urbanisme, VEFA, procédures Rokhas et ANCFCC"
+   ]
+  },
+  {
+   "id": 3200,
+   "title": "Office Manager & Coordinateur Administratif et Financier",
+   "slug": "office-manager-coordinateur-administratif-et-financier-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "4 ans et +",
+   "education": "Gestion / Finance",
+   "salary": null,
+   "profile": [
+    "Expérience en office management ou coordination admin. et financière",
+    "Bases en comptabilité, suivi budgétaire et trésorerie",
+    "Maîtrise d'Excel, Word et PowerPoint"
+   ]
+  },
+  {
+   "id": 3199,
+   "title": "Gérant de portefeuilles",
+   "slug": "gerant-de-portefeuilles-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "5 ans et +",
+   "education": "Master / Grande École",
+   "salary": null,
+   "profile": [
+    "Spécialité marchés des capitaux, gestion d'actifs ou ingénierie financière",
+    "Expérience en OPCVM, gestion d'actifs ou de patrimoine (env. réglementé)",
+    "Marchés internationaux (MENA, Europe, US) : un plus"
+   ]
+  },
+  {
+   "id": 3198,
+   "title": "Responsable Juridique Immobilier, Corporate & Relation Investisseurs",
+   "slug": "responsable-juridique-immobilier-corporate-relation-investisseurs-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "7 à 10 ans",
+   "education": "Bac+5 Droit",
+   "salary": null,
+   "profile": [
+    "Droit immobilier, droit des sociétés et DOC",
+    "Structuration d'opérations d'investissement et de véhicules dédiés",
+    "Français courant, anglais professionnel"
+   ]
+  },
+  {
+   "id": 3197,
+   "title": "Asset Manager Immobilier",
+   "slug": "asset-manager-immobilier-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "5 à 8 ans",
+   "education": "Bac+5",
+   "salary": null,
+   "profile": [
+    "Asset management, investissement ou conseil immobilier",
+    "Modélisation financière : TRI, rendement, sensibilités",
+    "Expérience hôtelière : un plus"
+   ]
+  },
+  {
+   "id": 3196,
+   "title": "Manager M&A",
+   "slug": "manager-ma-casablanca",
+   "contract": "CDI",
+   "city": "Casablanca",
+   "experience": "7 à 10 ans",
+   "education": "Bac+5 / MBA",
+   "salary": null,
+   "profile": [
+    "Pilotage d'opérations M&A sell-side et/ou buy-side",
+    "Valorisation : DCF, multiples, transactions comparables, LBO",
+    "Français, anglais et arabe courants"
+   ]
+  }
+ ],
+ "company_slug": "cantor-capital-group"
+}
